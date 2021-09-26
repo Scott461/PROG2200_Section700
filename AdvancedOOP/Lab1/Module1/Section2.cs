@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Section2 {
     class Program {
-        static void Main(string[] args) {
+        static void Main2(string[] args) {
             Console.WriteLine("What is the pass code?");
             var code = Console.ReadLine();
 

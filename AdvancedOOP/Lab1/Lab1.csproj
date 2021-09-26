@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Module1\Section4.cs" />
+    <Compile Include="Module1\Section3.cs" />
+    <Compile Include="Module1\Section2.cs" />
     <Compile Include="Module1\Section1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

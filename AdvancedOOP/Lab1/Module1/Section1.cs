@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Section1 {
     class Program {
-        static void Main(string[] args) {
+        static void Main1(string[] args) {
             Console.WriteLine("What is your name?");
             var name = Console.ReadLine();
 

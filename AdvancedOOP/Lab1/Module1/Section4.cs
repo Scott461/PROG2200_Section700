@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace Lab1.Module1 {
     class Section4 {
 
-        static void Main(string[] args) {
+        static void Main2(string[] args) {
             Console.WriteLine("How many students in your class?");
             var studentCount = int.Parse(Console.ReadLine());
 
